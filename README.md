@@ -1,5 +1,5 @@
  # Data Warehouse Project
-
+ 
 Welcome to my **Data Warehouse Project** repository!  
 
 This project demonstrates a comprehensive end-to-end Data Engineering solution, focusing on building a modern Data Warehouse using the Medallion Architecture (Bronze, Silver, Gold), implementing data quality checks, and modeling data into a Star Schema optimized for analytics.
